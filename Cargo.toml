@@ -4,7 +4,7 @@ description = "for zed rainbow tsv"
 version = "0.0.1"
 keywords = ["incremental", "parsing", "rainbow tsv"]
 categories = ["parsing", "text-editors"]
-repository = "https://github.com/weartist/tsv-tree-sitter"
+repository = "https://github.com/weartist/rainbow-tsv-tree-sitter"
 edition = "2018"
 license = "MIT"
 
